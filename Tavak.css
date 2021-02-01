@@ -1,0 +1,76 @@
+table {
+border: solid grey;
+}
+
+thead {
+margin: 1cm auto;
+border-radius: 5px;
+padding: 0.5cm;
+}
+.tavak_nevei {
+    color: darkblue;
+background-color: rgb(120, 110, 189);
+border: 2cm rgb(147, 194, 233);
+margin: 1cm auto;
+border-radius: 5px;
+padding: 0.5cm;
+border-right: solid darkslateblue;
+border-bottom: solid darkslateblue;
+}
+.jellemzések {
+background-color: rgb(168, 168, 238);
+text-align: left;
+border-right: solid darkslateblue;
+border-bottom: solid darkslateblue;
+}
+.velencei {
+  background-color: wheat;
+  border-right: solid darkslateblue;
+  border-bottom: solid darkslateblue;
+}
+td {
+    background-color: rgb(203, 174, 214);
+color: rgb(41, 61, 77);
+    text-align: center;
+border-radius: 5px; 
+ border-right: solid darkslateblue;
+ border-bottom: solid darkslateblue;
+ padding: 0.5cm;
+height: auto;  
+width: auto;
+}
+#Atter {
+  color: red;
+  border-right: solid darkslateblue;
+  border-bottom: solid darkslateblue;
+}
+#wolfgang {
+color: red;
+border-right: solid darkslateblue;
+border-bottom: solid darkslateblue;
+}
+#traun {
+  border-right: solid darkslateblue;
+border-bottom: solid darkslateblue;
+color: red;
+}
+#tó_neve {
+  color: darkblue;
+background-color: rgb(120, 110, 189); ;
+border-radius: 5px;
+border-right: solid darkslateblue;
+border-bottom: solid darkslateblue;
+}
+#velenceito {
+  color: darkblue;
+  background-color: wheat;
+border-radius: 5px;
+border-right: solid darkslateblue;
+border-bottom: solid darkslateblue;
+}
+img {
+  height: 2cm;
+width: 3cm;
+border-radius: 5px;
+
+}
