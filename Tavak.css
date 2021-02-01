@@ -43,16 +43,19 @@ width: auto;
   color: red;
   border-right: solid darkslateblue;
   border-bottom: solid darkslateblue;
+  font-weight: bold;
 }
 #wolfgang {
 color: red;
 border-right: solid darkslateblue;
 border-bottom: solid darkslateblue;
+font-weight: bold;
 }
 #traun {
   border-right: solid darkslateblue;
 border-bottom: solid darkslateblue;
 color: red;
+font-weight: bold;
 }
 #tó_neve {
   color: darkblue;
@@ -60,6 +63,7 @@ background-color: rgb(120, 110, 189); ;
 border-radius: 5px;
 border-right: solid darkslateblue;
 border-bottom: solid darkslateblue;
+
 }
 #velenceito {
   color: darkblue;
